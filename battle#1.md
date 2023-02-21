@@ -2,7 +2,7 @@
 
 # Solution
 
-```
+```css
 <div class="octagon">
 
 </div>
