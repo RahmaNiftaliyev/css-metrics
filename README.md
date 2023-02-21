@@ -1,2 +1,3 @@
 # css-metrics
-css  battles   solution
+
+<img src="hourglass.svg"/>
